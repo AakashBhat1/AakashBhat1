@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
-  <img src="assets/banner.gif" alt="Aakash Bhat" width="100%">
-</picture>
+<video src="assets/banner.mp4" autoplay loop muted playsinline width="100%" poster="assets/banner.png"></video>
 
 # Aakash Bhat
 
@@ -44,14 +41,29 @@ Python · PyTorch · OpenCV · YOLO · TypeScript · Next.js · React · Tailwin
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AakashBhat1&show_icons=true&hide_border=true&bg_color=00000000&title_color=1c1c1c&text_color=4a4a4a&icon_color=1c1c1c&hide_title=true" alt="stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&hide_border=true&bg_color=00000000&title_color=1c1c1c&text_color=4a4a4a" alt="top languages"></td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AakashBhat1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+        <img src="https://github-readme-stats.vercel.app/api?username=AakashBhat1&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da" alt="stats" width="100%">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f" alt="top languages" width="100%">
+      </picture>
+    </td>
   </tr>
 </table>
 
 ## Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashBhat1&hide_border=true&background=00000000&stroke=1c1c1c&ring=1c1c1c&fire=1c1c1c&currStreakNum=1c1c1c&sideNums=1c1c1c&currStreakLabel=1c1c1c&sideLabels=4a4a4a&dates=4a4a4a" alt="streak">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AakashBhat1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashBhat1&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=cf222e&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a" alt="streak" width="100%">
+  </picture>
+</div>
 
 ## Contribution graph
 
