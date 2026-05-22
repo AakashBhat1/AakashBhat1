@@ -1,0 +1,34 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger via the "Actions" tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Stats SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/user-stats.svg
+          colors: "title:#58a6ff,text:#c9d1d9,icon:#58a6ff,bg:#0d1117,border:rgba(0,0,0,0)"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/user-stats.svg
+          git commit -m "Update profile stats SVG" || exit 0
+          git push
