@@ -1,6 +1,7 @@
 <div align="center">
 
-<video src="assets/banner.mp4" autoplay loop muted playsinline width="100%" poster="assets/banner.png"></video>
+<video src="https://raw.githubusercontent.com/AakashBhat1/AakashBhat1/main/assets/banner.mp4" autoplay loop muted playsinline width="100%" poster="https://raw.githubusercontent.com/AakashBhat1/AakashBhat1/main/assets/banner.png"></video>
+
 
 # Aakash Bhat
 
