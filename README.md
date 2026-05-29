@@ -13,6 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-aakash--bhat-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-bhat-42888226a/)
 [![GitHub](https://img.shields.io/github/followers/AakashBhat1?label=follow&style=for-the-badge&color=1c1c1c)](https://github.com/AakashBhat1)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AakashBhat1&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 </div>
 
 I work where vision models meet shipped software — training detectors, classifiers, and recognition pipelines, then wrapping them in interfaces people can actually use. Most days I'm somewhere between a Jupyter notebook and a Next.js route.
@@ -56,6 +60,10 @@ I work where vision models meet shipped software — training detectors, classif
   <img src="https://github-readme-stats-tau-ten-76.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="195" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashBhat1&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Aakash Bhat GitHub Activity Graph" />
+</p>
+
 ## Streak
 
 <div align="center">
@@ -64,6 +72,17 @@ I work where vision models meet shipped software — training detectors, classif
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashBhat1&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=cf222e&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a" alt="streak" width="100%">
   </picture>
 </div>
+
+## Dev Preferences
+
+| Option | Preference |
+| :--- | :--- |
+| ☕ **Fuel** | Cold Brew Coffee / Chai |
+| ⌨️ **Keyboard** | Mechanical (Tactile Browns) |
+| 🎨 **Theme** | Midnight Dark / Catppuccin Mocha |
+| 🪟 **OS** | Windows (WSL2) / Ubuntu |
+| 🧑‍💻 **Editor** | VS Code / Jupyter Notebooks |
+| 🧠 **AI assistant** | Claude / Gemini |
 
 ## Contribution graph
 
