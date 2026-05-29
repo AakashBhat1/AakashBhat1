@@ -78,7 +78,8 @@ I work where vision models meet shipped software — training detectors, classif
 | Option | Preference |
 | :--- | :--- |
 | ☕ **Fuel** | Cold Brew Coffee / Chai |
-| ⌨️ **Keyboard** | Mechanical (Tactile Browns) |
+| ⌨️ **Keyboard** | Razer BlackWidow V3 TKL |
+| 🖱️ **Mouse** | Razer Basilisk V3 |
 | 🎨 **Theme** | Midnight Dark / Catppuccin Mocha |
 | 🪟 **OS** | Windows (WSL2) / Ubuntu |
 | 🧑‍💻 **Editor** | VS Code / Jupyter Notebooks |
