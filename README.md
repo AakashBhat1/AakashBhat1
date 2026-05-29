@@ -21,6 +21,28 @@
 
 I work where vision models meet shipped software — training detectors, classifiers, and recognition pipelines, then wrapping them in interfaces people can actually use. Most days I'm somewhere between a Jupyter notebook and a Next.js route.
 
+<details>
+  <summary><b>📖 Deep Dive: My Computer Vision & ML Workflow</b></summary>
+  <br />
+  Here is how I typically train and deploy computer vision pipelines:
+  <ul>
+    <li><b>Data Prep & Processing:</b> OpenCV and Roboflow for robust augmentations, data labeling, and camera stream handling.</li>
+    <li><b>Model Training:</b> PyTorch, YOLOv8, and Vision Transformers (ViT) in local/cloud Jupyter notebooks.</li>
+    <li><b>Model Deployment:</b> Deploying models as optimized Flask/Python API endpoints supporting live RTSP camera feeds.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🛠️ Deep Dive: My Full-Stack Architecture</b></summary>
+  <br />
+  How I build modern, performant web applications:
+  <ul>
+    <li><b>Frontend Stack:</b> Next.js (App Router), React, and Tailwind CSS for designing animation-rich, visual dashboards.</li>
+    <li><b>Type Safety & Logic:</b> End-to-end TypeScript for robust data flow, clean custom hooks, and state management.</li>
+    <li><b>Backend Stack:</b> Node.js, Express, and Python servers to handle authentication, database storage, and model queries.</li>
+  </ul>
+</details>
+
 ---
 
 ## Currently building
