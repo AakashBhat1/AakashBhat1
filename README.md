@@ -19,6 +19,17 @@
 
 </div>
 
+```text
+[ YOLOv8: Developer - 99.9% Confidence ]
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│   Class: Computer Vision Engineer & Builder      │
+│   Status: Active & Shipping Code                 │
+│   Location: India                                │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
 I work where vision models meet shipped software — training detectors, classifiers, and recognition pipelines, then wrapping them in interfaces people can actually use. Most days I'm somewhere between a Jupyter notebook and a Next.js route.
 
 <details>
