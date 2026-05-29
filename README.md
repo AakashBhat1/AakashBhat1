@@ -41,9 +41,9 @@ I work where vision models meet shipped software — training detectors, classif
 Python · PyTorch · OpenCV · YOLO · TypeScript · Next.js · React · Tailwind · Node · Flask
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashBhat1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="195" alt="Aakash Bhat GitHub Stats" />
+  <img src="https://github-readme-stats-aakashbhat1s-projects.vercel.app/api?username=AakashBhat1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="195" alt="Aakash Bhat GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-aakashbhat1s-projects.vercel.app/api/top-langs/?username=AakashBhat1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="195" alt="Top Languages" />
 </p>
 
 ## Streak
