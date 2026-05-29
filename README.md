@@ -43,7 +43,7 @@ Python · PyTorch · OpenCV · YOLO · TypeScript · Next.js · React · Tailwin
 ## Stats
 
 <div align="center">
-  <img src="./assets/user-stats.svg" alt="Aakash Bhat Stats" width="100%" max-width="500px">
+  <img src="./assets/user-stats.svg?v=2" alt="Aakash Bhat Stats" width="100%" max-width="500px">
 </div>
 
 ## Streak
