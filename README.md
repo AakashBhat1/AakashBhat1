@@ -7,7 +7,7 @@
 
 # Aakash Bhat
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&background=0d111700&center=true&vCenter=true&width=500&height=40&lines=Computer+Vision+Engineer;Full-Stack+Builder;Turning+Models+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&background=0d111700&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Software+Engineer;Computer+Vision+/+AI+Builder;Turning+Models+into+Products" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/email-aakashbhat6476%40gmail.com-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashbhat6476@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-aakash--bhat-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-bhat-42888226a/)
@@ -18,17 +18,6 @@
 </p>
 
 </div>
-
-```text
-[ YOLOv8: Developer - 99.9% Confidence ]
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   Class: Computer Vision Engineer & Builder      │
-│   Status: Active & Shipping Code                 │
-│   Location: India                                │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
 
 I work where vision models meet shipped software — training detectors, classifiers, and recognition pipelines, then wrapping them in interfaces people can actually use. Most days I'm somewhere between a Jupyter notebook and a Next.js route.
 
