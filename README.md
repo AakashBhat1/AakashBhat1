@@ -7,7 +7,7 @@
 
 # Aakash Bhat
 
-*Computer vision engineer & full-stack builder — turning models into products.*
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&background=0d111700&center=true&vCenter=true&width=500&height=40&lines=Computer+Vision+Engineer;Full-Stack+Builder;Turning+Models+into+Products" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/email-aakashbhat6476%40gmail.com-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashbhat6476@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-aakash--bhat-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-bhat-42888226a/)
@@ -38,7 +38,17 @@ I work where vision models meet shipped software — training detectors, classif
 
 ## Stack
 
-Python · PyTorch · OpenCV · YOLO · TypeScript · Next.js · React · Tailwind · Node · Flask
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-tau-ten-76.vercel.app/api?username=AakashBhat1&v=3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="195" alt="Aakash Bhat GitHub Stats" />
