@@ -105,7 +105,7 @@ I work where vision models meet shipped software — training detectors, classif
 | 🎨 **Theme** | Midnight Dark / Catppuccin Mocha |
 | 🪟 **OS** | Windows (WSL2) / Ubuntu |
 | 🧑‍💻 **Editor** | VS Code / Jupyter Notebooks |
-| 🧠 **AI assistant** | Claude / Gemini |
+| 🧠 **AI assistant** | Claude / Codex |
 
 ## Contribution graph
 
