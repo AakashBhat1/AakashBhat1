@@ -104,7 +104,7 @@ I work where vision models meet shipped software — training detectors, classif
 | 🖱️ **Mouse** | Razer Basilisk V3 |
 | 🎨 **Theme** | Midnight Dark / Catppuccin Mocha |
 | 🪟 **OS** | Windows (WSL2) / Ubuntu |
-| 🧑‍💻 **Editor** | VS Code / Jupyter Notebooks |
+| 🧑‍💻 **Editor** | VS Code / Zed |
 | 🧠 **AI assistant** | Claude / Codex |
 
 ## Contribution graph
